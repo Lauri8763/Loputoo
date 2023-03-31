@@ -1,0 +1,15 @@
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.csproj.AssemblyReference.cache
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.AssemblyInfoInputs.cache
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.AssemblyInfo.cs
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.csproj.CoreCompileInputs.cache
+D:\LINQ\Loputoo\Loputoo\Loputoo\bin\Debug\net6.0\Loputoo.exe
+D:\LINQ\Loputoo\Loputoo\Loputoo\bin\Debug\net6.0\Loputoo.deps.json
+D:\LINQ\Loputoo\Loputoo\Loputoo\bin\Debug\net6.0\Loputoo.runtimeconfig.json
+D:\LINQ\Loputoo\Loputoo\Loputoo\bin\Debug\net6.0\Loputoo.dll
+D:\LINQ\Loputoo\Loputoo\Loputoo\bin\Debug\net6.0\Loputoo.pdb
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.dll
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\refint\Loputoo.dll
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.pdb
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\Loputoo.genruntimeconfig.cache
+D:\LINQ\Loputoo\Loputoo\Loputoo\obj\Debug\net6.0\ref\Loputoo.dll
